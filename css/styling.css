@@ -20,8 +20,17 @@ img {
 }
 .header4 {
   font-size: 20px;
-  border:2 px solid blue;
+  border:2 px solid white;
   padding: 6px;
   margin:10px;
   color:grey;
+}
+.lengths {
+  color:white;
+  font-size: 20px;
+  text-align: left;
+  background-color: blue;
+}
+.button {
+  font-size: 20px;
 }
