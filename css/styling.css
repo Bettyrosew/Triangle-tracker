@@ -12,3 +12,16 @@
 .intro {
   font-style: italic;
 }
+img {
+  width: 400px;
+}
+.header3 {
+  font-size: 30px;
+}
+.header4 {
+  font-size: 20px;
+  border:2 px solid blue;
+  padding: 6px;
+  margin:10px;
+  color:grey;
+}
