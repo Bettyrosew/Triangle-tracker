@@ -1,8 +1,14 @@
 .header p {
-  color :blue;
   font-style:italic;
+  font-size:20px;
 }
 .heading {
-  font-style: oblique;
-  color: blue;
+  color:white;
+  font-size: 30px;
+  border:2px solid white;
+  background-color: blue;
+  text-align: center;
+}
+.intro {
+  font-style: italic;
 }
