@@ -6,7 +6,7 @@ function measurements() {
   if(inputArray[0]+inputArray[1]>inputArray[2] &&inputArray[1]+inputArray[2]>inputArray[0] &&inputArray[0]+inputArray[2]>inputArray[1]) {
     if(inputArray[0]==inputArray[1]&&inputArray[1]==inputArray[2]) {
     alert('It is an' + ' equilateral triangle');
-    }else if(inputArray[0]==inputArray[1]||inputArray[1]==inputArray[2]||inputArray[0]==inputArray[2]) {
+  }else if(inputArray[0]==inputArray[1]||inputArray[1]==inputArray[2]||inputArray[0]==inputArray[2]) {
     alert('It is an'+' isosceles triangle');
       }else {
         alert('It is a'+' scalene triangle');
